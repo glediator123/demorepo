@@ -1,4 +1,4 @@
 # demorepo
-ripo to test skill for open source repository
+repo to test skill for open source repository
 This line has been commented by open source contributor mauryavb
-new commit from third contributor.
+new commit from "THIS suppose to create marge conflict".
